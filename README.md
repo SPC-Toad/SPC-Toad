@@ -40,4 +40,5 @@ I'm a passionate coder with a versatile skill set in various programming languag
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SPC-Toad&theme=default)](https://git.io/streak-stats)
 
 ![Vistors](https://komarev.com/ghpvc/?username=SPC-Toad&style=for-the-badge)
+<br />
 Feel free to reach out for collaborations or just a chat!
