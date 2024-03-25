@@ -32,7 +32,7 @@ I'm a passionate coder with a versatile skill set in various programming languag
 
 ## 🔥 My Stats
 
-![SPC-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPC-Kim\&show icons=true\&theme=gruvbox)
+![SPC-Toad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPC-Toad&show_icons=true&theme=radical)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SPC-Toad&theme=default)](https://git.io/streak-stats)
 
