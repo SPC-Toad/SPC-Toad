@@ -6,6 +6,7 @@ I'm a passionate coder with a versatile skill set in various programming languag
 #
 
 ## 🛠 Skills
+
 ### Front-end:
 
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -30,16 +31,13 @@ I'm a passionate coder with a versatile skill set in various programming languag
 <img align="left" alt="MacOS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
 <br /><br />
 
+## 📈 Language Usage
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPC-Toad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔥 My Stats
 
 ![SPC-Toad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPC-Toad&show_icons=true&theme=radical)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SPC-Toad&theme=default)](https://git.io/streak-stats)
-
-## 📈 Language Usage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPC-Toad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📚 Projects Overview
-[![SPC-Kim's github activity graph](https://activity-graph.herokuapp.com/graph?username=SPC-Toad&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Feel free to reach out for collaborations or just a chat!
