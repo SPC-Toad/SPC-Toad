@@ -5,12 +5,12 @@ I'm a passionate coder with a versatile skill set in various programming languag
 ---
 ## 🛠 Skills
 ### Front-end:
-<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="URL_FOR_HTML5_ICON" />
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="URL_FOR_CSS3_ICON" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="URL_FOR_JAVASCRIPT_ICON" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="URL_FOR_REACT_ICON" />
-<img align="left" alt="React Native" width="30px" style="padding-right:10px;" src="URL_FOR_REACT_NATIVE_ICON" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="URL_FOR_TYPESCRIPT_ICON" />
+[<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="URL_FOR_HTML5_ICON" />]
+[<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="URL_FOR_CSS3_ICON" />]
+[<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="URL_FOR_JAVASCRIPT_ICON" />]
+[<img align="left" alt="React" width="30px" style="padding-right:10px;" src="URL_FOR_REACT_ICON" />]
+[<img align="left" alt="React Native" width="30px" style="padding-right:10px;" src="URL_FOR_REACT_NATIVE_ICON" />]
+[<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="URL_FOR_TYPESCRIPT_ICON" />]
 <br /><br />
 
 ### Back-end:
