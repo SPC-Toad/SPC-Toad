@@ -31,12 +31,15 @@ I'm a passionate coder with a versatile skill set in various programming languag
 <br /><br />
 
 ## 🔥 My Stats
+
+![SPC-Kim's GitHub stats] (https://github-readme-stats.vercel.app/api?username=SPC-Kim\&show icons=true\&theme=gruvbox)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SPC-Toad&theme=default)](https://git.io/streak-stats)
 
 ## 📈 Language Usage
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPC-Toad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Projects Overview
-[![YourName's github activity graph](https://activity-graph.herokuapp.com/graph?username=SPC-Toad&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![SPC-Kim's github activity graph](https://activity-graph.herokuapp.com/graph?username=SPC-Toad&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Feel free to reach out for collaborations or just a chat!
