@@ -1,5 +1,11 @@
 # Hello, I'm Kim! 👋
 
+## 📈 Overview
+<p>
+  ![](https://raw.githubusercontent.com/SPC-Toad/my-stats/master/generated/languages.svg)
+  ![](https://raw.githubusercontent.com/SPC-Toad/my-stats/master/generated/overview.svg)
+</p>
+
 ## 🚀 About Me
 I'm a passionate coder with a versatile skill set in various programming languages, covering both front-end and back-end development. My enthusiasm lies deeply in web and application development, where I love to bring creative ideas to life through code. At 21, I'm currently a Junior at Boston University, majoring in Computer Science, which has been an incredible journey of growth and learning. Alongside my academic pursuits, I proudly serve in the United States Army, an experience that has honed my discipline and teamwork skills. This unique blend of military and academic experiences shapes my approach to problem-solving and collaboration in the tech world.
 
@@ -31,15 +37,6 @@ I'm a passionate coder with a versatile skill set in various programming languag
 <img align="left" alt="MacOS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
 <img align="left" alt="Splunk" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
 <br /><br />
-
-## 📈 Language Usage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPC-Toad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🔥 My Stats
-
-![SPC-Toad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPC-Toad&show_icons=true&theme=radical)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SPC-Toad&theme=default)](https://git.io/streak-stats)
 
 ![Vistors](https://komarev.com/ghpvc/?username=SPC-Toad&style=for-the-badge)
 <br />
