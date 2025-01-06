@@ -4,7 +4,7 @@
 ![](https://raw.githubusercontent.com/SPC-Toad/my-stats/master/generated/languages.svg)
 ![](https://raw.githubusercontent.com/SPC-Toad/my-stats/master/generated/overview.svg)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3982063" style='border:none;'></iframe>
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3982063)
 
 ## 🚀 About Me
 I'm a passionate coder with a versatile skill set in various programming languages, covering both front-end and back-end development. My enthusiasm lies deeply in web and application development, where I love to bring creative ideas to life through code. At 22, I'm currently a Senior at Boston University, majoring in Computer Science, which has been an incredible journey of growth and learning. Alongside my academic pursuits, I proudly serve in the United States Army, an experience that has honed my discipline and teamwork skills. This unique blend of military and academic experiences shapes my approach to problem-solving and collaboration in the tech world.
